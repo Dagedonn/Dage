@@ -79,6 +79,8 @@ A database project focused on designing and managing a library management system
 
 Exploratory data analysis of Netflix content using **SQL queries** to uncover patterns in genres, countries, content types, and release trends.
 
+###  Data Job dashboard [https://github.com/Dagedonn/Data-Jobs-Dashboard] 
+
 ### 🛒 [Retail Sales Analysis](https://github.com/Dagedonn/SQL-RETAIL-SALES-PROJECT)
 
 Analysed retail sales data using **SQL** to answer business questions and uncover sales insights.
