@@ -79,7 +79,7 @@ A database project focused on designing and managing a library management system
 
 Exploratory data analysis of Netflix content using **SQL queries** to uncover patterns in genres, countries, content types, and release trends.
 
-###  [Data Job dashboard](https://github.com/Dagedonn/Data-Jobs-Dashboard) 
+### 📋 [Data Job dashboard](https://github.com/Dagedonn/Data-Jobs-Dashboard) 
 An interactive Power BI dashboard exploring the global job market for **Data Analyst**, **Data Engineer**, and **Data Scientist** roles — job volume, salary trends, and geographic distribution.
 
 
