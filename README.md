@@ -20,7 +20,7 @@
 
 ## 👨🏾‍💻 About Me
 
-I am a **Statistics graduate and Data Analyst/Data Scientist** with a strong interest in using data to solve real-world problems. My background in statistics helps me approach data with a focus on analytical reasoning, interpretation, and meaningful insights.
+I am a **Statistician and Data Analyst/Data Scientist** with a strong interest in using data to solve real-world problems. My background in statistics helps me approach data with a focus on analytical reasoning, interpretation, and meaningful insights.
 
 * 🎓 **B.Tech Statistics** — Federal University of Technology, Akure
 * 📊 Interested in **Data Analytics, Data Science, Machine Learning, and Health Analytics**
