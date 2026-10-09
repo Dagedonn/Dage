@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Turning+messy+data+into+meaningful+insights;Statistical+Analysis+%7C+Excel+%7C+SQL+%7C+Python+%7C+Machine+Learning;Exploring+Health+and+Public+Data+Analytics" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Turning+messy+data+into+meaningful+insights;Statistical+Analysis+%7C+Excel+%7C+SQL+%7C+Python+%7C+ML;Exploring+Health+and+Public+Data+Analytics" />
 </p>
 
 <p align="center">
