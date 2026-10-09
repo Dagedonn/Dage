@@ -72,7 +72,7 @@ A high-dimensional analysis of maternal and child health indicators across Niger
 ## 📂 Other Projects
 
 ### 🛒 [Sales-dashboard-audit](https://github.com/Dagedonn/Sales-dashboard-audit)
-A project to review data, determine what can and cannot be trusted, correcting the analysis, and producing a more reliable dashboard and a set of business conclusion
+A project to review data, determine what can and cannot be trusted, correcting analysis, and producing a more reliable dashboard and a set of business conclusion
 
 ### 📚 [Library Management System](https://github.com/Dagedonn/-LIBRARY-MANAGEMENT-SYSTEM-PROJECT)
 
