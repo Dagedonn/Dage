@@ -1,4 +1,4 @@
-   # 👋 Hi, I'm Akinsowon Gbenga Ejiro
+   # 👋 Hi, I'm Akinsowon Gbenga 
 
 <h3 align="center">B.Tech Statistics | Data Analyst | Health & Public Data Analytics</h3>
 
