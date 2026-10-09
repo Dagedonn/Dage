@@ -71,6 +71,8 @@ A high-dimensional analysis of maternal and child health indicators across Niger
 
 ## 📂 Other Projects
 
+### [Sales-dashboard-audit](https://github.com/Dagedonn/Sales-dashboard-audit)
+
 ### 📚 [Library Management System](https://github.com/Dagedonn/-LIBRARY-MANAGEMENT-SYSTEM-PROJECT)
 
 A database project focused on designing and managing a library management system using **SQL and database management concepts**.
