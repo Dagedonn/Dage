@@ -24,7 +24,7 @@ I am a **Statistician and Data Analyst/Data Scientist** with a strong interest i
 
 * 🎓 **B.Tech Statistics** — Federal University of Technology, Akure
 * 📊 Interested in **Data Analytics, Data Science, Machine Learning, and Health Analytics**
-* 🏢 Completed an internship at the **Research and Statistics Department, Lagos State Traffic Management Authority (LASTMA)** — May to October 2025
+* 🏢 Completed an industrial training at the **Research and Statistics Department, Lagos State Traffic Management Authority (LASTMA)** — May to October 2025
 * 📈 Experienced in working with **data analysis, statistical methods, Excel, SQL, and Python**
 * 🤖 Currently building **predictive machine learning models using health data**
 * 🌱 Continuously improving my skills in **Machine Learning and advanced analytics**
